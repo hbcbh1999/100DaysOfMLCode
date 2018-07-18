@@ -7,3 +7,10 @@ I've just created this repository and I'm learning how to properly use GitHub, w
 I've created a python linear regressor with just Numpy and plot the greph with the training slope and interceppt. 
 
 ## Day 2: 16th July 2018
+Svm classifier and kernel trick. Code needs to be improved. 
+
+## Day 3: 17th July 2018
+Improvements on svm model.
+
+## Day 4: 18th July 2018
+I developed a K-Means classifier and posted it on GitHub.
