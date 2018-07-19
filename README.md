@@ -16,4 +16,4 @@ Improvements on svm model.
 I developed a K-Means classifier and posted it on GitHub.
 
 ## Day 5: 19th July 2018
-Some code cleaning on K-Means. 
+Some code cleaning on K-Means. I started studying Decision Trees and Random Forest.
