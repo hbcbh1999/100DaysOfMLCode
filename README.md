@@ -14,3 +14,6 @@ Improvements on svm model.
 
 ## Day 4: 18th July 2018
 I developed a K-Means classifier and posted it on GitHub.
+
+## Day 5: 19th July 2018
+Some code cleaning on K-Means. 
