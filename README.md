@@ -17,3 +17,17 @@ I developed a K-Means classifier and posted it on GitHub.
 
 ## Day 5: 19th July 2018
 Some code cleaning on K-Means. I started studying Decision Trees and Random Forest.
+
+
+## Day 15: 29th July 2018
+### Work: 
+Starting read the book "Deep Learning" by Ian Goodfellow et al. 
+### Thoughts: 
+I have to understand deeply the math behind the model that I apply. 
+### Link: 
+https://www.deeplearningbook.org/
+
+## Day 16:30th July 2018
+### Work: 
+### Thoughts: 
+### Link: 
