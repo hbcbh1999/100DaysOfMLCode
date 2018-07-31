@@ -35,6 +35,10 @@ https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
 https://en.wikipedia.org/wiki/Naive_Bayes_classifier
 
 ## Day 10: 24th July 2018
+### Work: 
+Performing Sentiment Analysis with a Naive Bayes model on review on books from the Amazon's platform.
+### Link: 
+http://jmcauley.ucsd.edu/data/amazon/
 
 ## Day 11: 25th July 2018
 
