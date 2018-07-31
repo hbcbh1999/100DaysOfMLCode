@@ -18,23 +18,31 @@ I developed a K-Means classifier and posted it on GitHub.
 ## Day 5: 19th July 2018
 Some code cleaning on K-Means. I started studying Decision Trees and Random Forest.
 
-## Day 6: 19th July 2018
+## Day 6: 20th July 2018
 
-## Day 7: 19th July 2018
+## Day 7: 21th July 2018
 
-## Day 8: 19th July 2018
+## Day 8: 22th July 2018
 
-## Day 9: 19th July 2018
+## Day 9: 23th July 2018
+### Work: 
+Today I've watched the video 'Probability Theory - The Math of Intelligence #6' by Siraj Raval and with some other website I've built a simple Naive Bayes classifier. 
+### Thoughts: 
+I have to apply it to real world data. 
+### Link: 
+https://www.youtube.com/watch?v=PrkiRVcrxOs
+https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+https://en.wikipedia.org/wiki/Naive_Bayes_classifier
 
-## Day 10: 19th July 2018
+## Day 10: 24th July 2018
 
-## Day 11: 19th July 2018
+## Day 11: 25th July 2018
 
-## Day 12: 19th July 2018
+## Day 12: 26th July 2018
 
-## Day 13: 19th July 2018
+## Day 13: 27th July 2018
 
-## Day 14: 19th July 2018
+## Day 14: 28th July 2018
 
 ## Day 15: 29th July 2018
 ### Work: 
