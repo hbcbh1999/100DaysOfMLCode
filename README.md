@@ -64,5 +64,20 @@ Same of yesterday.
 
 ## Day 17: 31th July 2018
 ### Work: 
+Still studying math from 'Deep Learning'. Developing a spamm filter based on Naive Bayes classifier. 
 ### Thoughts: 
+I need more data preprocessing skills. 
 ### Link: 
+https://www.deeplearningbook.org/
+https://www.kaggle.com/uciml/sms-spam-collection-dataset
+
+## Day 18: 1st August 2018
+### Work: 
+Watched some videos about Neural Network and backpropagation and starting developing a neural network with just NNumpy. 
+### Thoughts: 
+Understaing ML concepts but still struggling with Python, I have to improve on this. 
+### Link:
+https://www.youtube.com/watch?v=h3l4qz76JhQ
+https://www.youtube.com/watch?v=q555kfIFUCM
+https://iamtrask.github.io/2015/07/12/basic-python-network/
+
