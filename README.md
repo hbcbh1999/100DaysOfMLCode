@@ -81,3 +81,11 @@ https://www.youtube.com/watch?v=h3l4qz76JhQ
 https://www.youtube.com/watch?v=q555kfIFUCM
 https://iamtrask.github.io/2015/07/12/basic-python-network/
 
+## Day 19: 2nd August 2018
+### Work: 
+After some problems, I finally managed to realize a NN with just Numpy, thanks to a post on TowardsDataScience. It's been difficult but very useful, now I want to try developing some other ML algorithm with classes in Python. 
+### Thoughts: 
+while (code doesn't work):
+  fix it
+### Link:
+https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6
